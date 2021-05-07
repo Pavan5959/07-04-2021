@@ -1,0 +1,118 @@
+body
+{
+   padding: 5px;
+}
+.card-body
+{
+    width: 1550px;
+}
+
+.para1
+{   text-align: justify;
+    color: #1D4387;
+    font-size: 24px;
+}
+
+.para2
+{
+    text-align: center;
+    font-size: 20px;
+    color:#54565A;
+}
+#creams
+{
+    padding-left: 40px;
+}
+#skins
+{
+    width: 500px;
+    padding:5px;
+   
+}
+.haveit
+{
+    width: 850px;
+    padding: 8px;
+}
+.customer
+{
+    padding:25px;
+    
+}
+#promoter, #customer
+{
+    padding-left: 80px;
+}
+.images
+{
+    padding:15px;
+    float: inline-start;
+}
+.img-fluid
+{
+    padding: 15px;
+    border-radius: 4%;
+    background-color: #E3E4E7;
+}
+.heading
+{
+    text-align:center;
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 45px;
+    color:#8C9091;
+}
+.subpara
+{ 
+    color:#54565A;
+    font-size: 23px;
+}
+ #buttons
+{
+    font-size: 50%;
+    text-align: center;
+    padding: 10px;
+}
+.text
+{
+    font-size: 20px;
+    font-weight: bold;
+    color:#54565A;
+}
+
+.medium
+{
+    float: right;
+    padding:10px;
+    width: 30%;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: white;
+    color:#54565A;
+}
+.lastpara
+{
+    color: #1D4387;
+    text-align:justify;
+    font-size: 35px;
+}
+#square
+{
+    float: left;
+    margin: 5px;
+}
+
+#last1
+{
+    padding:40px;
+  width: 50%;
+  float: left;
+    
+}
+#last2
+{
+    padding: 40px;
+    width: 50%;
+    float: right;
+   
+}
